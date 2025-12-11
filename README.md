@@ -143,14 +143,14 @@ GET /graph/state/{run_id}
 
 ## What the Engine Supports
 
-- ✅ Standard nodes (sequential execution)
-- ✅ Conditional routing (branching)
-- ✅ Looping (repeat until condition)
-- ✅ Shared state across nodes
-- ✅ Execution logging
-- ✅ Tool registry system
-- ✅ Error handling
-- ✅ Run state tracking
+- Standard nodes (sequential execution)
+-  Conditional routing (branching)
+-  Looping (repeat until condition)
+-  Shared state across nodes
+-  Execution logging
+-  Tool registry system
+-  Error handling
+-  Run state tracking
 
 ## What I Would Improve with More Time
 
